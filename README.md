@@ -3,7 +3,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baocai27)
 ![trophy](https://github-profile-trophy.vercel.app/?username=baocai27)
-![GitHub Streak](https://streak-stats.demolab.com/?user=baocai27)
+
 <!--
 **baocai27/baocai27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
