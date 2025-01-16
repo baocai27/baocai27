@@ -1,5 +1,5 @@
-## Hi there 👋
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello, welcome to my page!)
+## Hallo en dank je wel! 👋
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=W;e;l;c;o;m;e; ;t;o; ;m;y; ;p;a;g;e;!)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baocai27)
 ![trophy](https://github-profile-trophy.vercel.app/?username=baocai27)
