@@ -1,6 +1,6 @@
 ## Hallo en dank je wel! 👋
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+page+!)
-
+![鲨鱼跃海](./shark.svg)
 
 
 <!--
