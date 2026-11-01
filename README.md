@@ -1,7 +1,6 @@
 ## Hallo en dank je wel! 👋
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+page+!)
-![鲨鱼跃海](./shark.svg)
-
+![rei](./rei.jpg)
 
 <!--
 **baocai27/baocai27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
